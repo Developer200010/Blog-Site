@@ -7,10 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": ["api","mongoose"],
+  "keywords": [
+    "api",
+    "mongoose"
+  ],
   "author": "Chandan Vishwakarma",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3"
   }
 }
